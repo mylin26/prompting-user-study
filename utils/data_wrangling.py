@@ -6,7 +6,7 @@ Returns the talk data corresponding to the given conference containing the given
 - `conference_name`: Name of the conference. Must be either "msr-2022" or "msr-2023".
 - `keys`: Fields to extract from each talk. Each key must be one of "title", "topics", "abstract", "author".
 """
-def get_conference_talk_data(conference_name="msr-2022", keys=["title", "topics", "abstract", "author"]):
+def get_conference_talk_data(conference_name="msr-2023", keys=["title", "topics", "abstract", "author"]):
     assert(conference_name == "msr-2022" or conference_name == "msr-2023")
     assert(len(keys) != 0)
 
