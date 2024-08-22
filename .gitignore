@@ -1,2 +1,4 @@
 myEnv/
-venv
+venv/
+__pycache__/
+secret.json
