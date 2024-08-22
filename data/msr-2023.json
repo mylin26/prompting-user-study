@@ -1043,12 +1043,6 @@
         ]
     },
     {
-        "title": "MSR Dinner at Cargo Hall, South Wharf",
-        "topics": "Technical Papers",
-        "abstract": null,
-        "authors": []
-    },
-    {
         "title": "Whistleblowing and Tech on Twitter",
         "topics": "Technical Papers",
         "abstract": "From airports to banks, healthcare, space crafts, and even amazon services, technology impacts almost every aspect of today\u2019s life. If wrongdoings occur within or in relation to technology, they can have big implications on individuals, groups of people, or society as a whole. Whistleblowers are insiders who expose such wrongdoings\u2014 eventually stopping misconducts, such as fraud, endangerment to public health and safety, or damage to the environment. Twitter is a microblogging service that allows millions of users to share their views with people distributed all over the world on a daily basis. Tweets have the potential to contain useful information about whistleblowing in tech, from the general public and whistleblowers. However, until now this point has not been researched. To fill this gap, we conducted an exploratory study on technology-related whistleblowing tweets by manually analysing tweets, utilising descriptive statistics, and machine learning techniques. We mined 7,400 of tweets from whistleblowers themselves, as well as news and opinions about certain whistleblowers and whistleblowing cases. Although our results show that only 30% of the tweets in our sample dataset (obtained through specific search terms) contained relevant information about whistleblowing in technology, our analysis shows that tweets provide valuable information for both researchers and companies to understand the public opinion regarding whistleblowing cases. Furthermore, we found that machine learning techniques are promising means for extracting information about whistleblowing in tech from the vast stream of tweets.",

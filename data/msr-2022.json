@@ -1134,12 +1134,6 @@
         ]
     },
     {
-        "title": "Discussion",
-        "topics": "Technical Papers",
-        "abstract": null,
-        "authors": []
-    },
-    {
         "title": "Dataset: Dependency Networks of Open Source Libraries Available Through CocoaPods, Carthage and Swift PM",
         "topics": "Data and Tool Showcase Track",
         "abstract": "Third party libraries are used to integrate existing solutions for common problems and help speed up development. The use of third party libraries, however, can carry risks, for example through vulnerabilities in these libraries. Studying the dependency networks of package managers lets us better understand and mitigate these risks. So far, the dependency networks of the three most important package managers of the Apple ecosystem, CocoaPods, Carthage and Swift PM, have not been studied. We analysed the dependencies for all publicly available open source libraries up to December 2021 and compiled a dataset containing the dependency networks of all three package managers. The dependency networks can be used to analyse how vulnerabilities are propagated through transitive dependencies. In order to ease the tracing of vulnerable libraries we also queried the NVD database and included publicly reported vulnerabilities for these libraries in the dataset.",
@@ -2524,12 +2518,6 @@
                 "country": "United States"
             }
         ]
-    },
-    {
-        "title": "Discussion",
-        "topics": "Technical Papers",
-        "abstract": null,
-        "authors": []
     },
     {
         "title": "GrimoireLab Maintenance and Evolution",
