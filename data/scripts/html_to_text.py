@@ -48,10 +48,7 @@ for idx, tag in enumerate(appended_tags):
         "title": title,
         "topics": topics,
         "abstract": abstract,
-        "paperLink": paper_link,
         "authors": authors,
-        "allocatedTime": time_info,
-        "location": location_info
     }
 
     json_array.append(json_element)
